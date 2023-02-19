@@ -6,10 +6,10 @@ Aspiring Web Developer
 
 I've been learning to code for the past three years. I started out with HTML/CSS and utilized these skills to improve my family's website. Recently, I have taken more interest into coding as a profession and have learned the basics of JavaScript, Bootstrap, and WordPress. I am currently learning React and hope to continue my journey from there.
 
-* 🌍  I'm based in Florida
+* 🌍  I'm based in Colorado
 * 🖥️  See my portfolio at [My Portfolio](http://https://www.webnetic.dev/)
 * ✉️  You can contact me at [dieterhillje@webnetic.dev](mailto:dieterhillje@webnetic.dev)
-* 🧠  I'm learning Python, React, nodeJS, and MongoDB
+* 🧠  I'm learning Python, React, nodeJS, and PHP
 * 🤝  I'm open to collaborating on open-source projects
 * ⚡  I’m interested in front end development, lifting weights, and video games!
 
