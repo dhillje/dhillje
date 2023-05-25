@@ -1,7 +1,7 @@
 Hi 👋 My name is Dieter Hillje
 ==============================
 
-Aspiring Web Developer
+Web Developer
 ----------------------
 
 I've been learning to code for the past three years. I started out with HTML/CSS and utilized these skills to improve my family's website. Recently, I have taken more interest into coding as a profession and have learned the basics of JavaScript, Bootstrap, and WordPress. I am currently learning React and hope to continue my journey from there.
